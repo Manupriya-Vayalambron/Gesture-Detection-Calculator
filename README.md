@@ -25,6 +25,4 @@ The gesture recognition model was built using **Google’s Teachable Machine** a
 
 ---
 
-## 📂 Project Structure
-
 
